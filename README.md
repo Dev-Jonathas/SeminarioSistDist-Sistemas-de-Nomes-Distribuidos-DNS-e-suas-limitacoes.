@@ -1,1 +1,1 @@
-# SeminarioSistDist-Sistemas-de-Nomes-Distribu-dos-DNS-e-suas-limita-es.
+SeminarioSistDist-Sistemas-de-Nomes-Distribuidos-DNS-e-suas-limitacoes.
